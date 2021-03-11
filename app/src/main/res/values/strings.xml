@@ -1,0 +1,15 @@
+<resources>
+        <string name="app_name">Aktywności i intencje</string>
+
+    <string name="sent_message">Przekaż wiadomość</string>
+    <string name="received_message">Odczytana wiadomość</string>
+    <string name="launch_second_activity">Uruchom drugą aktywność</string>
+    <string name="launch_third_activity">Uruchom trzecią aktywność</string>
+
+    <string name="return_to_main_activity">Wróć do pierwszej aktywności</string>
+
+    <string name="choose_activity">Wybór czynności</string>
+    <string name="open_website">Otwórz stronę kursu ISM</string>
+    <string name="make_a_call">Zadzwoń do prezydenta</string>
+    <string name="make_a_photo">Zrób zdjęcie</string>
+</resources>
